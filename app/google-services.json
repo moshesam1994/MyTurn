@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "641099954775",
+    "project_id": "myturn-a1acc",
+    "storage_bucket": "myturn-a1acc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641099954775:android:ef6044bb94ba689b288112",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdQQZ-kzeW5u9yNEcFoChp3Y-NCTYuTZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641099954775:android:15200ea31010558b288112",
+        "android_client_info": {
+          "package_name": "com.example.myturn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdQQZ-kzeW5u9yNEcFoChp3Y-NCTYuTZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
